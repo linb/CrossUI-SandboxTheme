@@ -195,7 +195,7 @@ xui.Class('App', 'xui.Module',{
                 xui.create("xui.UI.Panel")
                 .setHost(host,"xui_ui_panel7")
                 .setDock("none")
-                .setLeft("2.5em")
+                .setLeft("0em")
                 .setWidth("16.6667em")
                 .setHeight("20.8333em")
                 .setPosition("relative")
